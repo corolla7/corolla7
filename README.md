@@ -1,8 +1,8 @@
 Boas vindas ao meu perfil 😃
-Meu nome é Vinicius Barbosa
+Meu nome é Vinicius Aparecido Barbosa
 
 • Estou estudando na Alura
-• Estou me desenvolvendo na linguagem JavaScript
+• Estou me desenvolvendo na linguagem JavaScript, CSS e HTML
 • Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 👉
